@@ -1,4 +1,4 @@
-package Week4.morning.mortgage_calculator;
+package week4_morning.mortgage_calculator;
 
 public class MathRoundMethod {
     public static void main(String[] args) {

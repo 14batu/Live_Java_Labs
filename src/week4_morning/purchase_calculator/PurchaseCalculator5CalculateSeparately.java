@@ -1,4 +1,4 @@
-package Week4.morning.purchase_calculator;
+package week4_morning.purchase_calculator;
 
 public class PurchaseCalculator5CalculateSeparately {
 

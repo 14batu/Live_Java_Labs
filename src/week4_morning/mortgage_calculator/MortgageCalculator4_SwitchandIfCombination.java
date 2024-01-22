@@ -1,4 +1,4 @@
-package Week4.morning.mortgage_calculator;
+package week4_morning.mortgage_calculator;
 
 public class MortgageCalculator4_SwitchandIfCombination {
     /*2. Create a Java class named MortgageCalculator with the following requirements:
